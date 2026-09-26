@@ -6,4 +6,4 @@ This project presents the design and implementation of a 4-bit ALU supporting ba
 The design consists of 5 main blocks: Input Unit, Output Unit, Control Unit, Arithmetic Unit and Logic Unit
 
 # Design Details
-Block Diagram, Logic Design, Implementation and Test Cases are all shown in the [4-BIT-ALU-DESIGN-REPORT.pdf](https://raw.githubusercontent.com/nguyenngocha911/4-bit-ALU-design/refs/heads/main/4-BIT-ALU-DESIGN-REPORT.pdf)
+Block Diagram, Logic Design, Implementation and Test Cases are all shown in the 4-BIT-ALU-DESIGN-REPORT.pdf [Download](https://raw.githubusercontent.com/nguyenngocha911/4-bit-ALU-design/refs/heads/main/4-BIT-ALU-DESIGN-REPORT.pdf)
